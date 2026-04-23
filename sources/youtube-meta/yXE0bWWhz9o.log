@@ -1,0 +1,18 @@
+== yXE0bWWhz9o ==
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+yXE0bWWhz9o	ARMS WARRIOR BIS PHASE 3 TBC CLASSIC (WE ALL KEBAB NOW!)	tomatosaucin	https://www.youtube.com/watch?v=yXE0bWWhz9o
+== captions yXE0bWWhz9o ==
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yXE0bWWhz9o
+[youtube] yXE0bWWhz9o: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] yXE0bWWhz9o: Downloading android vr player API JSON
+[info] yXE0bWWhz9o: Downloading subtitles: en-orig, en
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] yXE0bWWhz9o: Downloading 1 format(s): 18
+[info] Writing video subtitles to: sources/youtube-transcripts/yXE0bWWhz9o.en-orig.vtt
+[download] Destination: sources/youtube-transcripts/yXE0bWWhz9o.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.89MiB/s (00:00:00)[download]    7.00KiB at    2.84MiB/s (00:00:00)[download]   15.00KiB at    4.84MiB/s (00:00:00)[download]   31.00KiB at    3.94MiB/s (00:00:00)[download]   55.55KiB at    3.27MiB/s (00:00:00)[download] 100% of   55.55KiB in 00:00:00 at 159.49KiB/s
+[info] Writing video subtitles to: sources/youtube-transcripts/yXE0bWWhz9o.en.vtt
+[download] Destination: sources/youtube-transcripts/yXE0bWWhz9o.en.vtt
+[download]    1.00KiB at  122.43KiB/s (00:00:00)[download]    3.00KiB at  340.36KiB/s (00:00:00)[download]    7.00KiB at  758.72KiB/s (00:00:00)[download]   15.00KiB at    1.53MiB/s (00:00:00)[download]   31.00KiB at    1.63MiB/s (00:00:00)[download]   55.55KiB at    1.64MiB/s (00:00:00)[download] 100% of   55.55KiB in 00:00:00 at 234.47KiB/s

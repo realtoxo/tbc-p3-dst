@@ -1,0 +1,18 @@
+== STxvv_E7r-Y ==
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+STxvv_E7r-Y	Phase 3 Fury Warrior BiS and Prio Guide - Don't fall into these traps! | TBC Classic	Marrow	https://www.youtube.com/watch?v=STxvv_E7r-Y
+== captions STxvv_E7r-Y ==
+[youtube] Extracting URL: https://www.youtube.com/watch?v=STxvv_E7r-Y
+[youtube] STxvv_E7r-Y: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] STxvv_E7r-Y: Downloading android vr player API JSON
+[info] STxvv_E7r-Y: Downloading subtitles: en-orig, en
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] STxvv_E7r-Y: Downloading 1 format(s): 18
+[info] Writing video subtitles to: sources/youtube-transcripts/STxvv_E7r-Y.en-orig.vtt
+[download] Destination: sources/youtube-transcripts/STxvv_E7r-Y.en-orig.vtt
+[download]    1.00KiB at  952.39KiB/s (00:00:00)[download]    3.00KiB at    1.52MiB/s (00:00:00)[download]    7.00KiB at    2.40MiB/s (00:00:00)[download]   15.00KiB at    1.65MiB/s (00:00:00)[download]   31.00KiB at    2.34MiB/s (00:00:00)[download]   63.00KiB at    2.08MiB/s (00:00:00)[download]  127.00KiB at    2.75MiB/s (00:00:00)[download]  181.05KiB at    3.24MiB/s (00:00:00)[download] 100% of  181.05KiB in 00:00:00 at 558.34KiB/s
+[info] Writing video subtitles to: sources/youtube-transcripts/STxvv_E7r-Y.en.vtt
+[download] Destination: sources/youtube-transcripts/STxvv_E7r-Y.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.71MiB/s (00:00:00)[download]    7.00KiB at    2.81MiB/s (00:00:00)[download]   15.00KiB at    4.87MiB/s (00:00:00)[download]   31.00KiB at    1.98MiB/s (00:00:00)[download]   63.00KiB at    2.09MiB/s (00:00:00)[download]  127.00KiB at    2.91MiB/s (00:00:00)[download]  181.05KiB at    2.93MiB/s (00:00:00)[download] 100% of  181.05KiB in 00:00:00 at 635.92KiB/s

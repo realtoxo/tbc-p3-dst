@@ -1,0 +1,603 @@
+{
+  "fury_warrior_p3": {
+    "spec": "fury_warrior",
+    "phase": "p3",
+    "url": "https://www.wowhead.com/tbc/guide/fury-warrior-dps-bt-hyjal-phase-3-best-in-slot-gear-burning-crusade",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 32235
+      },
+      {
+        "slot": "shoulder",
+        "id": 30979
+      },
+      {
+        "slot": "back",
+        "id": 32323
+      },
+      {
+        "slot": "chest",
+        "id": 30975
+      },
+      {
+        "slot": "wrist",
+        "id": 30863
+      },
+      {
+        "slot": "hands",
+        "id": 32278
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 32341
+      },
+      {
+        "slot": "feet",
+        "id": 32345
+      },
+      {
+        "slot": "neck",
+        "id": 32260
+      },
+      {
+        "slot": "ring1",
+        "id": 32497
+      },
+      {
+        "slot": "ring2",
+        "id": 32335
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 32505
+      },
+      {
+        "slot": "main_hand",
+        "id": 33762,
+        "note": "No-Warglaives override: Wowhead first Best Non Legendary sword."
+      },
+      {
+        "slot": "off_hand",
+        "id": 33762,
+        "note": "No-Warglaives override: second Best Non Legendary sword for Human Fury baseline."
+      },
+      {
+        "slot": "ranged",
+        "id": 32326
+      }
+    ]
+  },
+  "arms_warrior_p3": {
+    "spec": "arms_warrior",
+    "phase": "p3",
+    "url": "https://www.wowhead.com/tbc/guide/arms-warrior-dps-bt-hyjal-phase-3-best-in-slot-gear-burning-crusade",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 32235
+      },
+      {
+        "slot": "shoulder",
+        "id": 30979
+      },
+      {
+        "slot": "back",
+        "id": 32323
+      },
+      {
+        "slot": "chest",
+        "id": 30975
+      },
+      {
+        "slot": "wrist",
+        "id": 30863
+      },
+      {
+        "slot": "hands",
+        "id": 32278
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 32341
+      },
+      {
+        "slot": "feet",
+        "id": 32345
+      },
+      {
+        "slot": "neck",
+        "id": 32260
+      },
+      {
+        "slot": "ring1",
+        "id": 32497
+      },
+      {
+        "slot": "ring2",
+        "id": 32335
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 32505
+      },
+      {
+        "slot": "two_hand",
+        "id": 30902,
+        "note": "Wowhead Phase 3 two-handed Best row."
+      },
+      {
+        "slot": "ranged",
+        "id": 32326
+      }
+    ]
+  },
+  "rogue_p3": {
+    "spec": "rogue",
+    "phase": "p3",
+    "url": "https://www.wowhead.com/tbc/guide/rogue-dps-bt-hyjal-phase-3-best-in-slot-gear-burning-crusade",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 32235
+      },
+      {
+        "slot": "shoulder",
+        "id": 31030
+      },
+      {
+        "slot": "back",
+        "id": 32323
+      },
+      {
+        "slot": "chest",
+        "id": 31028
+      },
+      {
+        "slot": "wrist",
+        "id": 32324
+      },
+      {
+        "slot": "hands",
+        "id": 31026
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 31029
+      },
+      {
+        "slot": "feet",
+        "id": 32366
+      },
+      {
+        "slot": "neck",
+        "id": 32260
+      },
+      {
+        "slot": "ring1",
+        "id": 32497
+      },
+      {
+        "slot": "ring2",
+        "id": 29301
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 30450
+      },
+      {
+        "slot": "main_hand",
+        "id": 33762,
+        "note": "No-Warglaives override: Wowhead first non-legendary sword option."
+      },
+      {
+        "slot": "off_hand",
+        "id": 32369,
+        "note": "No-Warglaives override: Wowhead first non-legendary offhand Best row."
+      },
+      {
+        "slot": "ranged",
+        "id": 29949
+      }
+    ]
+  },
+  "bm_hunter_p3": {
+    "spec": "bm_hunter",
+    "phase": "p3",
+    "url": "https://www.wowhead.com/tbc/guide/beast-mastery-hunter-dps-bt-hyjal-phase-3-best-in-slot-gear-burning-crusade",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 32235
+      },
+      {
+        "slot": "shoulder",
+        "id": 31006
+      },
+      {
+        "slot": "back",
+        "id": 29994
+      },
+      {
+        "slot": "chest",
+        "id": 31004
+      },
+      {
+        "slot": "wrist",
+        "id": 32324
+      },
+      {
+        "slot": "hands",
+        "id": 31001
+      },
+      {
+        "slot": "waist",
+        "id": 30879
+      },
+      {
+        "slot": "legs",
+        "id": 31005
+      },
+      {
+        "slot": "feet",
+        "id": 32366
+      },
+      {
+        "slot": "neck",
+        "id": 32591
+      },
+      {
+        "slot": "ring1",
+        "id": 32497
+      },
+      {
+        "slot": "ring2",
+        "id": 29301
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 32505
+      },
+      {
+        "slot": "main_hand",
+        "id": 30901,
+        "note": "Wowhead Best MH row."
+      },
+      {
+        "slot": "off_hand",
+        "id": 30881,
+        "note": "Wowhead Best OH row for 7700 armor bosses."
+      },
+      {
+        "slot": "ranged",
+        "id": 30906
+      }
+    ]
+  },
+  "survival_hunter_p3": {
+    "spec": "survival_hunter",
+    "phase": "p3",
+    "url": "https://www.wowhead.com/tbc/guide/survival-hunter-dps-bt-hyjal-phase-3-best-in-slot-gear-burning-crusade",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 31003
+      },
+      {
+        "slot": "shoulder",
+        "id": 31006
+      },
+      {
+        "slot": "back",
+        "id": 29994
+      },
+      {
+        "slot": "chest",
+        "id": 31004
+      },
+      {
+        "slot": "wrist",
+        "id": 32324
+      },
+      {
+        "slot": "hands",
+        "id": 31001
+      },
+      {
+        "slot": "waist",
+        "id": 30879
+      },
+      {
+        "slot": "legs",
+        "id": 30900
+      },
+      {
+        "slot": "feet",
+        "id": 32366
+      },
+      {
+        "slot": "neck",
+        "id": 30017
+      },
+      {
+        "slot": "ring1",
+        "id": 28791
+      },
+      {
+        "slot": "ring2",
+        "id": 29301
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 32505
+      },
+      {
+        "slot": "main_hand",
+        "id": 30881,
+        "note": "Wowhead Best x2 Blade of Infamy row."
+      },
+      {
+        "slot": "off_hand",
+        "id": 30881,
+        "note": "Wowhead Best x2 Blade of Infamy row."
+      },
+      {
+        "slot": "ranged",
+        "id": 30906
+      }
+    ]
+  },
+  "feral_cat_p3": {
+    "spec": "feral_cat",
+    "phase": "p3",
+    "url": "https://www.wowhead.com/tbc/guide/feral-druid-dps-bt-hyjal-phase-3-best-in-slot-gear-burning-crusade",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 8345
+      },
+      {
+        "slot": "shoulder",
+        "id": 31048
+      },
+      {
+        "slot": "back",
+        "id": 32323
+      },
+      {
+        "slot": "chest",
+        "id": 32252
+      },
+      {
+        "slot": "wrist",
+        "id": 32324
+      },
+      {
+        "slot": "hands",
+        "id": 29947
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 31044
+      },
+      {
+        "slot": "feet",
+        "id": 32366
+      },
+      {
+        "slot": "neck",
+        "id": 32260
+      },
+      {
+        "slot": "ring1",
+        "id": 32497
+      },
+      {
+        "slot": "ring2",
+        "id": 29301
+      },
+      {
+        "slot": "trinket1",
+        "id": 30627
+      },
+      {
+        "slot": "trinket2",
+        "id": 32505
+      },
+      {
+        "slot": "two_hand",
+        "id": 33716,
+        "note": "Wowhead Phase 3 BiS feral weapon row."
+      },
+      {
+        "slot": "ranged",
+        "id": 29390
+      }
+    ]
+  },
+  "enhancement_shaman_p3": {
+    "spec": "enhancement_shaman",
+    "phase": "p3",
+    "url": "https://www.wowhead.com/tbc/guide/enhancement-shaman-dps-bt-hyjal-phase-3-best-in-slot-gear-burning-crusade",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 32235
+      },
+      {
+        "slot": "shoulder",
+        "id": 32581
+      },
+      {
+        "slot": "back",
+        "id": 32323
+      },
+      {
+        "slot": "chest",
+        "id": 30905
+      },
+      {
+        "slot": "wrist",
+        "id": 32574
+      },
+      {
+        "slot": "hands",
+        "id": 32234
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 30900
+      },
+      {
+        "slot": "feet",
+        "id": 32366
+      },
+      {
+        "slot": "neck",
+        "id": 32260
+      },
+      {
+        "slot": "ring1",
+        "id": 32497
+      },
+      {
+        "slot": "ring2",
+        "id": 29301
+      },
+      {
+        "slot": "trinket1",
+        "id": 28830
+      },
+      {
+        "slot": "trinket2",
+        "id": 32505
+      },
+      {
+        "slot": "main_hand",
+        "id": 33669,
+        "note": "Wowhead Best in slot (All) Phase 3 weapon row."
+      },
+      {
+        "slot": "off_hand",
+        "id": 32262,
+        "note": "Wowhead next Best in slot (All) Phase 3 weapon row."
+      },
+      {
+        "slot": "ranged",
+        "id": 27815
+      }
+    ]
+  },
+  "ret_paladin_p3": {
+    "spec": "ret_paladin",
+    "phase": "p3",
+    "url": "https://www.wowhead.com/tbc/guide/retribution-paladin-dps-bt-hyjal-phase-3-best-in-slot-gear-burning-crusade",
+    "selected": [
+      {
+        "slot": "head",
+        "id": 32235
+      },
+      {
+        "slot": "shoulder",
+        "id": 30055
+      },
+      {
+        "slot": "back",
+        "id": 33122
+      },
+      {
+        "slot": "chest",
+        "id": 30905
+      },
+      {
+        "slot": "wrist",
+        "id": 32574
+      },
+      {
+        "slot": "hands",
+        "id": 29947
+      },
+      {
+        "slot": "waist",
+        "id": 30106
+      },
+      {
+        "slot": "legs",
+        "id": 30900
+      },
+      {
+        "slot": "feet",
+        "id": 32366
+      },
+      {
+        "slot": "neck",
+        "id": 30022
+      },
+      {
+        "slot": "ring1",
+        "id": 30834
+      },
+      {
+        "slot": "ring2",
+        "id": 32526
+      },
+      {
+        "slot": "trinket1",
+        "id": 29383
+      },
+      {
+        "slot": "trinket2",
+        "id": 28830
+      },
+      {
+        "slot": "two_hand",
+        "id": 32332,
+        "note": "Wowhead Phase 3 weapon Best row."
+      },
+      {
+        "slot": "ranged",
+        "id": 27484
+      }
+    ]
+  }
+}

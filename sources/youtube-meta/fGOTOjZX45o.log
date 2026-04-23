@@ -1,0 +1,12 @@
+== fGOTOjZX45o ==
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+fGOTOjZX45o	Feral Druid DPS Phase 3 BiS (Classic TBC)	Rugs	https://www.youtube.com/watch?v=fGOTOjZX45o
+== captions fGOTOjZX45o ==
+[youtube] Extracting URL: https://www.youtube.com/watch?v=fGOTOjZX45o
+[youtube] fGOTOjZX45o: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] fGOTOjZX45o: Downloading android vr player API JSON
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] fGOTOjZX45o: Downloading 1 format(s): 18
+[info] There are no subtitles for the requested languages

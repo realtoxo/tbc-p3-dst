@@ -1,0 +1,457 @@
+hi guys it's jambrose and i'm here with
+my second video in the phase three and
+phase four loot guide for physical dps
+uh specifically i'll be doing
+enhancement shaman
+um
+hopefully it'll be of some use for
+either you to understand uh how much of
+an upgrade or downgrade any given item
+is
+beginning or end of phase three and
+phase four and maybe for some loot
+council yields too to understand exactly
+how
+good certain items are for your class
+explaining some of the methodology here
+i use specifically uh najin's shaman
+spreadsheet
+with all these different settings that i
+try to keep the same between all the
+different classes
+and
+what is good for them
+every single one will be a 182nd
+duration fight
+uh with a 7700 armor level 3 level 73
+humanoid boss
+uh it's all purely single target uh and
+all the other buffs will be appropriate
+raid and party buffs and debuffs on the
+boss
+that are appropriate for your class
+specifically for enhancement it'll be
+strength food agility strength scrolls
+drums
+the eternium chain for somebody in your
+group will will be using that and
+relentless assault
+these are the groups that i'll be using
+for all the simulations for the
+different classes enhancement is in both
+groups
+all the numbers here are going to be
+done for group one
+but the difference between group one and
+group two enhancement is extremely tiny
+it was less than one percent uh i think
+it was within about a five dps total
+so it doesn't really make a huge
+difference especially
+since all the numbers are pretty
+relative regardless
+the top three items of the tier
+uh
+per slot will be simmed for comparison
+with some exceptions for rings and
+trinket combinations
+they will use complete gear sets and
+don't just sim individual items
+um i'll get to that here in a second to
+show you exactly what i mean
+um like for example like two piece and
+four piece bonuses and breaking those
+changing out gems for hit rating
+the tier 5 bis will be used to simulate
+the opening of a hydro and black temple
+and would be the largest upgrades right
+off the bat
+just as a side note the tier 5 items
+will all use rare gems since epic gems
+are not available yet however the item
+that
+is being
+replaced
+with the new item will be using epic
+gems since it will be available
+tier six fists
+simulates the end of the tier and how
+much of an upgrade or downgrade certain
+items will be in a final gear set and
+they will be using epic gems without
+exception
+going over the spec i actually did do a
+restoration sub-spec instead of an
+elemental subspec
+i feel like it's a little more raid
+benefit
+uh this is the tier five this list for
+enhancement shaman i do want to make a
+little bit of a note here this does use
+the four piece bonus with the shoulder
+press of the stranger um
+off piece
+so if any of the other pieces of
+non-shoulder pieces are replaced with t6
+the shoulder
+the shoulder pads will be replaced with
+tier five to keep the four piece bonus
+because it will never be an upgrade you
+will have to choose
+uh when you want to break your four
+piece bonus uh so so so some of these
+comparisons will give you the strongest
+pieces to be able to do that and this is
+your final tier six this right here
+and i guess we'll get started with uh
+the head head slot
+previously it would be
+uh the
+tier five helm
+uh and your best in slot here is gonna
+be chris vision sargeras which is gonna
+be a highly contested item and it's a
+very large upgrade
+and nothing else really comes close um
+subbing out the helm uh you'd have to
+replace the shoulders with tier five
+um and that's just a dps loss all around
+even if you put the tier six helm in
+there and the force prowlers helm
+it it's not an upgrade at all
+um even in the final gear set it's up to
+30 dps behind
+for the next slot
+uh the choker of endless nightmares is
+really going to be the go-to here
+the serrated blades is an upgrade as
+well
+but
+enhancement shaman don't get a whole lot
+of benefit out of armor pen they do get
+some of course but compared to other
+classes like warriors or rogues it's
+really not as big of an upgrade i would
+really consider the braided eternium
+chain maybe possibly being second bits
+here just because you provide so much
+crit to the rest of your party as well
+and you can always take a trade off with
+you know other people your group and who
+uses it next and
+overall it's a great dps benefit
+again here at the end of t6 uh serrated
+blades can be a decent option
+but still just a little too far behind
+endless nightmares
+it's a little interesting here
+the shoulders everything is an upgrade
+sort of um they're very small upgrades
+even from just like
+the uh the crafted ones if you're
+leather working which i think most
+enhanced shaman will go leather working
+so both of those are bind on pickup
+should the pattern drop but there's only
+between two and four dps upgrade it's
+barely worth it the one drop from the
+gentis the mantle of darkness is right
+up there with them
+um these are not the best
+uh technically best instead will be
+swift strike but that will be after you
+change out all your other pieces
+but you can craft it right away
+there's that even only for a marginal
+upgrade
+same thing here
+uh not a whole lot changes by the end of
+the tier it'll just be swift strike
+but still for a tiny upgrade
+for the cloak you
+have a couple options
+uh the vengeance wrap can be crafted
+right away and while it is technically
+available
+in phase two you have rear gems as
+opposed to
+uh the epic gems so you can now put an
+epic seven slot on that so it'll be
+about a dps and a half upgrade
+i don't know how much you would value
+crafting that and using a red epic gem
+uh to do that right off the bat um
+but the this here will be the shatter me
+destroyer straight the cloak of fans is
+really close
+however that doesn't come out until
+phase four
+but it's not the biggest upgrade and
+there are other classes that may be able
+to use it more
+compared to the clock fiends
+um even that at the end of tier 6 it's
+less than a 1 dps downgrade
+i wouldn't put that too high at the top
+of my list
+uh for the chest this one is where you
+start getting to like the bigger
+upgrades you did normally use tier 5
+and the tier 5 shoulders are not
+particularly good
+so it kind of says a lot to how much
+this chest is an upgrade over
+what you have here as about a 10 dps
+even though it is a pretty contested
+item in the midnight chest card
+the other two items here are
+not upgrades at all
+something you should avoid
+the nether shadow tunic or even a
+possibility of using epic gems in the
+blood saver against vest is actually
+down great as well
+and even a bigger even a bigger impact
+here at the end of tier 6 in fulbus
+now this is where the big upgrades
+really start
+i guess the bracers in phase 2 were not
+particularly good all three of these are
+huge upgrades
+deadly cuffs insidious fans uh bindings
+of lightning reflexes
+lightning reflex bracers in particular
+are actually
+crafted and boe so these can be bought
+almost immediately
+and are only a couple dps behind these
+other two that are dropped
+uh all three all these top two bracers
+are pretty in demand
+so you could get away with just crafting
+your bracers
+uh even at the end of tier six it gets
+the difference gets even smaller
+only maybe a 2 dps difference
+for the hands
+this is a little deceiving because it
+looks like all of these are immediate
+dps downgrades and they are
+um you already asked me like how are
+they all downgrades this is from the
+tier 5 comparison
+so you would have to switch out your
+shoulder pads as a stranger
+to tier five shoulders again
+and none of these gloves are a big
+enough upgrade
+uh to justify
+moving those shoulders
+um however at the end of the tier
+these groups of damage damnation are bis
+um the fismuko are very close
+uh and a little more distant third uh
+are those uh sky shadow grips which are
+your tier vi
+um for the waist the belt of 100 deaths
+still going to be best um the four dps
+increase is just from switching out the
+rare gems to epic gems
+uh you have a couple other options uh
+the bone weave and veil stalker girdles
+they're not particularly close
+you could do okay if you did not get the
+vash belt in phase two
+by replacing it with the bone weave
+girdle which is a situational piece for
+most physical dps classes
+now for the legs your best is definitely
+going to be the bow stitch leggings a
+pretty significant upgrade
+the other two are not great the asgalore
+pants the shady dealers pantaloons are
+immediately a dps downgrade right off
+the bat
+uh and you can tell just from enter tier
+six piss
+that the
+shady dealers and the skulkers with all
+epic gems in it are just not really
+measuring up
+for feet these are all huge upgrades
+you previously were using the cobra lash
+boots
+but shadow masters boots saw soft step
+boots of tracking the ninjas tabby boots
+which come out in phase four with badges
+are all really big upgrades
+the first two you should probably be
+able to get your hands on one of the
+first two even though they're both
+slightly or highly contested
+but even if you're not able to are very
+unlucky
+the badges in phase four are almost
+guaranteed
+and that even that itself is just a 15
+dps upgrade
+and see here even in
+the tier 6 comparison they're all just
+incredibly close they're all within 2
+dps
+you could do worse having any of these
+pieces
+with the rings here um previously you're
+using the band of the ranger general and
+lethality ring for tier 5 bis
+the lethality ring is a little bit
+weaker than ranger general
+even replacing ranger general some of
+these are actually downgrades like the
+unsolvable aggressors ring is actually a
+couple dps worse
+i've been surprisingly the signet of
+primal wrath which is a very strong ring
+from zolamon
+uh is only about a three dps increase
+here
+the stormrage signaturing really stands
+out as being strong
+same case here if you replace the weaker
+ring whereas the other ones actually
+become a
+dps increase
+in tier six you're going to have a full
+base of storm rage and primal wrath this
+is how it kind of measures out
+band of the ranger general and band of
+the eternal champion are really close
+so is the aggressor's ring to be honest
+with you it really depends on what drops
+if you if you didn't have band of the
+ranger general in the previous tier
+you can run with the other ones but
+otherwise it ends up ahead actually
+uh than the rep ring and unstoppable
+aggressors
+coming to the trinkets hopefully you
+were lucky enough to get a dragon spine
+trophy
+um up up until this point
+uh you do get anubis and madness of the
+betrayer which is a very hotly contested
+item however berserker's call in phase
+four is actually very close to it as
+only about a two dps downgrade
+a lot of the other items are not close
+um the ashton talisman you get from uh
+the bt rep uh the bloodlust bruce which
+is just a weaker version of berserker's
+call basically
+uh hopefully you'll be able to get the
+combination of two of the top three
+because it really makes a big difference
+uh in terms of your totem you've been
+using astral winds up until this point
+finally in phase four
+uh you'll be able to get a new totem
+with 20 badges it's basically free
+otherwise in phase three you'll still be
+sticking with actual astral winds until
+then
+the thing that make
+enhancement shaman a little unique is
+that they choose weapon sets as opposed
+to independent weapons
+because they need to match uh
+weapon speeds actually
+so cypher the nathazim is a 2.8 speed
+mace
+and that is going to be your new best of
+supremacy and black temple
+coming up behind that pretty far behind
+it is the season 3
+arena weapons
+there are a couple other options past
+that rising tide after gentis and fury
+which comes out in phase four in case
+you're unlucky enough not to be able to
+get anything else
+unfortunately it's not really practical
+to mix
+syphon nathrezim with a bunch of the
+other ones because
+they have differing weapon speeds so you
+really want to get double siphon if
+possible
+here in a full tier 6 bis a lot of the
+things just really don't come close it's
+really what you're aiming for is like
+the biggest part of your upgrades in
+phase three and phase four
+i will note here this is a full off
+piece this enhancement shaman
+here four piece tier six is viable
+this is a comparison between force
+pierce four piece tier six and it's
+different off pieces and five piece tier
+six is just way behind
+um the closest you'll get since our
+cursed vision of sargeras and midnight
+chest guard everything really falls off
+from there
+tiers should be easier to get
+there's a lot of contested pieces in
+here but if you're able to get one of
+those and you have spare tier pieces
+that may be worthwhile until you can
+pick up more pieces
+particularly like the bosach leggings
+cursed vision to be very very hotly
+contested
+and a bit of a summary here some of
+these useless items that you will just
+never really want
+um the belts listed for sure if you did
+get 100 deaths
+if you didn't then the bone weave could
+be an option
+otherwise these two helms that
+supremacist chest ascolar pants are not
+good
+you'll never use these
+these
+are upgrades
+if nobody needs these or are easily
+accessible they're big upgrades even if
+you don't have this yet um berserker's
+call is a great upgrade from zulumono
+should be
+pretty easy to get
+the bracers which are boe are incredible
+and then most people will not want
+rising tide from magentas and until you
+can get
+a double siphon it could be an option to
+match 2.7 speed weapons
+and these are your highest priority
+items
+chris fisher and sargeras everybody
+wants this trick of endless nightmares
+uh the archimonde chest ascolar pants
+stormrage signet ring these are all
+really common high priority items that
+physical dps want
+fortunately you're the only one who
+really wants siphon
+so just really hope you get lucky on
+those drops
+and that's it uh thank you for watching
+i had a lot of fun making this
+uh follow my youtube channel follow me
+on twitch
+see how i play i normally play my rogue
+there tell me how good i'm doing bad i'm
+doing love to chat
+leave me any comments below and thanks
+for watching

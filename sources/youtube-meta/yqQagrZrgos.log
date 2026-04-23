@@ -1,0 +1,18 @@
+== yqQagrZrgos ==
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+yqQagrZrgos	Phase 3 Survival Hunter BiS and Prio Guide | TBC Classic	Veramos Gaming	https://www.youtube.com/watch?v=yqQagrZrgos
+== captions yqQagrZrgos ==
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yqQagrZrgos
+[youtube] yqQagrZrgos: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] yqQagrZrgos: Downloading android vr player API JSON
+[info] yqQagrZrgos: Downloading subtitles: en-orig, en
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] yqQagrZrgos: Downloading 1 format(s): 18
+[info] Writing video subtitles to: sources/youtube-transcripts/yqQagrZrgos.en-orig.vtt
+[download] Destination: sources/youtube-transcripts/yqQagrZrgos.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.56MiB/s (00:00:00)[download]    7.00KiB at    2.13MiB/s (00:00:00)[download]   15.00KiB at    3.34MiB/s (00:00:00)[download]   31.00KiB at    2.60MiB/s (00:00:00)[download]   63.00KiB at    2.63MiB/s (00:00:00)[download]  119.91KiB at    2.93MiB/s (00:00:00)[download] 100% of  119.91KiB in 00:00:00 at 413.57KiB/s
+[info] Writing video subtitles to: sources/youtube-transcripts/yqQagrZrgos.en.vtt
+[download] Destination: sources/youtube-transcripts/yqQagrZrgos.en.vtt
+[download]    1.00KiB at  987.36KiB/s (00:00:00)[download]    3.00KiB at    1.43MiB/s (00:00:00)[download]    7.00KiB at    1.53MiB/s (00:00:00)[download]   15.00KiB at    2.93MiB/s (00:00:00)[download]   31.00KiB at    2.08MiB/s (00:00:00)[download]   63.00KiB at    2.48MiB/s (00:00:00)[download]  119.91KiB at    3.24MiB/s (00:00:00)[download] 100% of  119.91KiB in 00:00:00 at 493.48KiB/s

@@ -1,0 +1,935 @@
+all right rogue phase three time so
+let's cover the absolute business or
+what are the best items you can get then
+we'll cover some potential side grades
+prior friendly items basically things
+that aren't quite this but they're close
+to this and they're what i'd recommend
+as kind of side grade options that you
+can look to words or
+more friendly items that your guild
+isn't going to yell at you for trying to
+pryor for example then we're going to
+cover some top prior picks so these are
+kind of like if i was given a top 10
+list and say hey snomi pryo these items
+how would i want to prior them this is
+how i would rank the items in the order
+that i would prior them personally for
+my own rogue and then we're going to
+cover shadow resist as well because some
+people want to know how to set out their
+early shadow resist set and i'll show
+you the way i did it it's um kind of
+like a cost efficient way to do it
+because i don't think you actually want
+to go too crazy on your shadow resist
+set and i'll explain why in that section
+and then finally we're going to cover
+murder and improve eviscerate so a lot
+of people are asking me questions about
+hey snow should i be using murder
+talents should i dump those two murder
+talents in to prove eviscerate for phase
+three let's cover it now and let's get
+into the guide and before we continue i
+do have to say thank you to all of you
+guys uh you guys on the patreon here
+who support me i couldn't do this
+without you as you guys know i aim to
+make high quality youtube content
+without the clickbait without the bs
+just good high quality guides and i lose
+views because of that and i couldn't do
+this without you guys on the patreon who
+support me and make all these videos
+possible so thank you so much to
+everyone on the patreon for supporting i
+appreciate it if you want to help out
+links in the description below it's just
+like a twitch sub except you guys get
+extra perks weak horrors and other cool
+things as thanks for helping make these
+videos and guides possible so thank you
+so much let's get into the guide okay so
+as always i do have perks for the
+patreons first so i wanted to show you
+guys two updated week or as i've done
+one is already an existing patreon week
+or that i updated and made even nicer
+for you guys and another is a brand new
+additional week aura i made for the
+patrons to track their explosives so
+let's cover in a brand new one first is
+the explosives weaker so this weaker
+that i have here shows you all
+your
+sapper timings and bomb timings and
+dynamite timings and regular cyber
+timings so for people that don't know
+there's actually three different timings
+for these
+so you can see here it's based on what
+you have in your bag so you can see
+this new bar has appeared down here
+and it will show only based on what i
+have in my bags so right now i have felt
+iron bombs and sappers in my bag but
+let's say i grab a super sapper out of
+the
+mail
+you can see now i have super sappers
+appear down here as well so you can see
+this is how it tracks the explosive
+timings is because super sappers you use
+on a five minute cooldown but after you
+use your super sappers you can actually
+use your regular sappers and then after
+you use your regular sappers you can
+actually use your fel iron bombs or
+grenades or whatnot
+for two to three times basically and
+then your super sap has come back up so
+i'll show you here so if i use a super
+sapper so you can see i have a super
+sapper here in my bag so let's say we
+click that
+so you can see it sets my other timers
+on a one minute cooldown so basically
+this is the way that explosives works
+for people that don't know is that when
+you use your super sapper it puts the
+supersaf on a five minute cooldown but
+then your regular zappers and
+explosives can go on a separate cooldown
+then if i use my separate charge after
+this it'll put
+both the super sapper cooldown will
+still be running down but then my
+regular sapper cooldown will be running
+down but then if i use my uh explosive
+cooldown that's again separate right so
+this is why i have three different cool
+down timers here to monitor them and
+this is for the super sweaty players
+basically you know you sweaty guys that
+uh want to monitor your cooldown timings
+and and are throwing these grenades a
+lot so for the grenade slot it actually
+monitors
+felt iron bombs it it monitors dynamite
+and it also monitors adamantite grenade
+all three of these are overlaid on the
+same spot and like i said all of these
+are dynamic so if for example i don't
+have any more separate charges so let's
+say i use the sap charge over here the
+zapper is going to disappear
+all right so i use the sapper charge the
+zapper disappears because i don't have
+them in my bags anymore all right so get
+rid of the icon so i don't need that
+timer anymore and you can see it puts my
+explosive cooldown on a one weight
+cooldown but my super separate cooldown
+doesn't get affected so yeah that's just
+a handy little weaker i made for you
+guys now the other bonus for patrons is
+i updated my rogue act as weaker so you
+guys may know this weaker this is the
+weaker that sits in the middle of my ui
+it's probably the most popular week or i
+have and it shows up like slice and dice
+time is your rogue time is your trinket
+time is your tier five four piece timers
+things like that show up in the middle
+here and it helps you basically time all
+your buffs together and such well i
+updated it and made it a little bit more
+fancy so i'll show you what i mean so
+you can see here i made the uh four set
+proc bonus here to warn you you'll see
+once it's less than five seconds it has
+a glowy border just a pixel board i
+think that helps you notice it and just
+in case you forget to use your cooldown
+and it's there so i basically did this
+sort of effect on a few things i did it
+on deadly poison as well once it gets
+less than five seconds on deadly poison
+you see the pixel border comes up so
+these are just things i added to kind of
+help remind you when uh timers are due
+so i added pixel borders just as kind of
+indicators to
+point out key timing windows for when
+you need to be thinking about something
+just in case you forget in the moment
+now the final one i did it for is
+exposed armor so you can see if i've
+exposed armor this mob here
+once it gets below 20 seconds the pixel
+board is going to come up now i did this
+because at 20 seconds that's when you
+want to start thinking about dumping
+your combo points and regaining them so
+usually around 17 to 18 seconds is when
+you want to dump combo points so i set
+it to less than 20 so that at 20 seconds
+you you know okay oh i in the next two
+three seconds i need to dump my combo
+points and regain them if i want to dump
+my combo points at this point so yeah
+it's just a little bit of a helpful
+thing i added just to just to help
+a little bit with
+uh timing windows and things for the
+weaker just just a subtle little update
+but i hope the patrons will enjoy it so
+this is an extra little bonus upgrade i
+threw in there for the patrons so you
+can grab both of these weak r links for
+this explosive weaker and then the
+updated rogue actors week are on the
+patreon uh linked on the latest post so
+enjoy all right now as always if you
+want to reference this later or you want
+it all neatly sorted into information
+for you guys this entire guide is
+available in text format on the website
+at tbcguys.gg with all the relevant 70
+upgrades links and everything but yeah
+let's go over the business now we'll
+start with a quick overview all right so
+i'm here on 70 upgrades because i want
+to be able to mouse over you and show
+you the different
+upgrade paths you can pick as well so
+here we have curse vision of sargeras
+obviously super super good helmet from
+illidan
+rogues are not very high prior on this
+in fact we are kind of low prio versus
+other classes because even though it's a
+really nice item other classes get even
+more benefit
+on this than us so just be aware of that
+is best but we don't really get very
+good prior on the cursed vision
+uh choco of endless nightmares we
+actually do all right on prio on this
+and it is a very good item but you can
+see no stamina so just be aware you are
+dropping your stamina survivability hp
+for this neck but it's a very good neck
+in terms of pure dps upgrade
+next we have the four piece layers so
+you can see you use the slayer shoulders
+uh slay your chest here you got your
+slayer's hands and then you got your
+slayer's legs over here so four piece
+layers all the slayer pieces are really
+really good the shoulders are
+technically one of the better pickups
+but because teardrops are doubled in the
+coming phase for this entire phase three
+i wouldn't really worry about tier tier
+tiers freebie and all out here is really
+good so rosa very lucky in that all of
+our tier here is really really good and
+really kind of free to pick up
+at worst we wait a little bit longer but
+because of the double drop rate tier is
+free for basically everyone unless you
+get unlucky
+now next we have shadow moon destroyers
+drape a really good back nice solid
+maybe 10 ish dps upgrade but just be
+aware that there is a cloak coming up in
+phase four which i'll cover in a little
+bit and show you that is not too far
+behind this actually pretty close so if
+you don't get this don't feel too bad
+because there's another alternative
+option you can pick up next phase
+insidious bands very nice upgrade
+actually uh quite a good juicy upgrade
+yeah i would highly recommend this uh
+higher up on the prior list but i'll
+cover the full prior list
+later on in this guide but yeah very
+very good upgrade the insidious bands
+warglaives of course obviously your
+abyss just be aware that if you're not
+getting warglaives or even if you are
+getting warglaives i would highly
+recommend all rogues uh do arena this
+season takes you about a month you need
+to be 1850 plus rating but as far as
+points go you can
+uh pick up enough points in roughly
+about a month so four weeks of arena 10
+games a week if you can pick three
+friends or four friends if you want to
+do threes or fives and just
+bang out those ten games every week and
+that will give you enough points in like
+four ish weeks depending on what bracket
+you play in now as far as the rating
+goes if you are on a popular server i
+would honestly say if you are trying and
+you just can't get yourself to 1850 uh
+there are people or friends that will
+help you out
+and it's not even against blizzard toss
+or anything you can get friends to carry
+you there's arena carries 1850 is
+basically free for any uh glad rank one
+player to get you to that level is it's
+really not hard for a high level player
+to help
+carry you there if you want to join your
+three steam or five steam so it's high
+as a highly recommended option if you're
+not walgley's prior or even if you are
+that you try to pick up a vengeful
+gladiator slicer
+just because it's it's a very very easy
+option and you don't know how long
+you're going to be waiting for that
+warglaive even if you are walgley pryor
+so i would highly recommend doing that
+just just because it's easy honestly
+i've seen people get carried to 1850
+rating for as little as 1k gold and
+that's like a day worth of farming if
+they weren't able to pvp themselves and
+honestly it's not even that hard to get
+to 1850 uh rating yourself if if you
+want to earn it and feel like oh i
+earned that rating myself it's actually
+not that hard to do uh particularly in
+like the fives bracket
+now often if you do not get wargler's
+prio i would highly recommend you pick
+up blade of savagery obviously
+uh because it is basically best for the
+rest of the game is the only option you
+have if you don't get warglaives uh
+you're basically using this for the rest
+of the game so
+yeah try to pick up blade of savagery if
+you are not warglaze pryor is highly
+highly recommend something that you want
+to pick up it's basically like a better
+latrose now for belt you're still using
+your belt of 100 defs there are some
+not really that great options at this
+phase if you don't have it but honestly
+most guilds will keep killing vash
+because you can run straight to vash and
+just kill vash
+so
+it's kind of a no-brainer for a lot of
+girls to keep doing vash because it's
+super easy fight now
+so yeah i i would still recommend most
+rogues try to pick this up if you don't
+have it yet it's it's still best buy
+quite a lot and it's the best belt we
+have until
+phase five basically shadow masters
+boots a nice solid dps upgrade again
+there is an alternative coming up in
+phase four so while this is this is not
+like a super super high prior item that
+i would i would have but we'll cover
+that later stormridge ring really really
+good item if i could pick one item that
+is in warglaives to pick up this phase
+for pure pve purposes it's stormrage
+signet ring really really good pickup
+this for the rest of the game basically
+so yeah great great ring for pve works a
+ring of deceitful intent now there's
+kind of two rings you can pick up for
+your second slot you have this ring of
+deceitful intent this is dropped from
+shade of akama uh it's basically free
+there's not many other people that want
+this i think there might be one other or
+two people in your raid that might want
+this at most
+for most people so it's kind of like a
+freebie ring but for this second slot
+ring you can actually also pick up the
+um band of eternal champion which is
+free so yeah just just heads up that's
+the rep ring it's it's very good as well
+we don't actually know how good it is
+because ben of eternal champion has
+um an unofficial proc rate we we haven't
+been able to test it yet but based on
+just an average one prop per minute
+number
+uh the banner eternal champion is fairly
+close to alternatives it's kind of in
+that uh ring of lethality
+up to
+uh band of ranger general ring of
+deceitful and ten kind of in this area
+of rings so if you can't pick up ring of
+deceitful intent uh this rep ring is
+still a good
+ring to use as well now for trinkets you
+keep using walk sprinkle and dragon
+spine trophy there is the alternative
+trinket that we get this phase which is
+ash tongue talisman of lethality and uh
+it's i i don't like this as much as warp
+spring but depending on the situation it
+can still be pretty good i would still
+rather have a wall spring coil if you
+give me a choice but if you don't have
+dragon spine trophy and warp sprinkle
+this uh freebie trinket that we get this
+phase is a good filler slot for that
+second
+trinket slot if you have one out of the
+two and for your range you're still
+using arcanite steam pistol now really
+quick before we move on and i explain
+some of the side grids a little bit more
+people always ask me about jamming and
+you see here for a lot of the jamming
+i've done the 5 hit 5 agility jamming
+now this is because it's just a very
+good
+gem in general but the easiest way to
+think about your jamming
+is
+that you want to look at your hit number
+so the hit amount that you get and so
+right now i gain 270 hit from the
+current jamming
+basically you want to go
+to the guide on my website i'll link it
+below as well if you don't know the hit
+number that you want most people do so
+for me it's 269 hit is the rough hit
+number i'm aiming for and if i'm below
+that i jam more hit and then if i'm
+above that i start jamming more agility
+that's basically kind of like the cliff
+notes version of how to jam obviously
+you can
+kind of alternate it by you can either
+jam more five hit rating five agility
+gems or you can split that up and do
+like 10 hit rating 10 agility gems it's
+just kind of it's kind of up to you
+depending on what bonuses you have at
+the moment what set items you choose to
+go with uh what hit numbers you go with
+because as you upgrade like
+right now i wouldn't say just copy the
+70 upgrades link for your jamming
+because
+i don't know what items you have if you
+have one item here with less hit or more
+hit it will change how much hit you need
+to hit that number in your head that
+you're aiming to hit so yeah just just
+be aware that uh it hit is very fluent
+you don't have to hit that number but
+the easiest way to jam is to just think
+oh i'm aiming for 269 hit okay i'm under
+that then i will
+jam more hit and if i'm over that i'll
+start jamming towards agility so yeah oh
+and by the way if you didn't know just
+just hot tip the 24 attack power gem
+from jewelcrafting if you are joe
+crafter is still bugged to give you 32
+attack power so just you know heads up i
+would use it it's 32 attack power even
+though it says 24
+so you know
+just just use it if you're a joe crafter
+now the thing to keep in mind the only
+thing that you need to really be
+thinking beyond that for jamming is you
+will have two blue gems so for your blue
+gems i pick these two in a full bit
+situation because you need to activate
+your meta gem up here so i picked the
+slayer's chest because i get eight
+attack power from this set bonus and
+then i picked the
+about 100 deaths for the second set
+bonus because i get three agility now
+obviously this will depend on what items
+with what blue socket bonuses you have
+but obviously you just want to try to
+match up your two blue gems to the two
+set bonuses or two socket bonuses that
+you have that give the best stats
+out of the options available okay now
+quickly let's cover the alternate biz
+pickups a little bit more so like i said
+the cursed vision
+really hard to get because we are not
+prior for that as all um rogues are
+pretty much one of the last in line for
+prio i still want it i would still
+recommend if if you're able to
+have a chance at it you put it on your
+prior list but
+the slayer's helm is a very good
+alternate pickup while you're waiting
+for the other classes ahead of you in
+prior to get to your turn so slurs helm
+we're only talking about losing 10 to 11
+dps so still a very good helm
+and um it's it's basically free i think
+maybe feral druids might be ahead of us
+in the tear pryo for slayer's helm but
+again uh
+tier is so plentiful with the double
+drop rate that it shouldn't be a problem
+so uh yeah pick up pick up the helmet
+especially if you're on walgreens prio
+rogues are going to be sacrificing a lot
+of their prior anyway for those wall
+glibs so uh yeah tier really really good
+pickup for the helmet slot now ring as i
+said banner of eternal champion it's
+kind of like we don't know what the
+official proc rate is on this so it can
+be anywhere from like minus five dps to
+plus five dps or more we just don't know
+what the official proc weight is on this
+yet but potentially it's it's a
+ring it's potentially the best level
+ring and it's free so kind of why not
+the thing about rings this phase is that
+you don't really have to worry about any
+other ring except stormrage signet ring
+you have so many choices for your second
+ring that i would not worry about it uh
+stormrage signet ring is just the one
+ring that you want to get and the second
+option you you got so much to pick from
+now for trinket we already covered that
+a very good uh pickup if you're still
+waiting for your dst
+slash uh warts from coil so ashton tells
+me saudi very good alternate pickup
+while you're waiting a segment of primal
+wraps so i'm gonna cover a few items
+here which are coming up in phase four
+the thing is we don't know how long page
+three is gonna last before phase four
+comes out because they kind of like
+combine phases but not combined so i'm
+not sure how blizzard's going to treat
+them or how long we're going to have
+phase three
+but coming up in phase four again we
+have yet another ring option so again
+don't worry about rings outside the
+illidan ring because
+they are super super plentiful
+now next phase we do have an alternate
+cloak so if you can't pick up the base
+cloak from this phase don't worry about
+picking up cloak of fiends it's we're
+talking about
+maybe less than a 3 to 5 dps difference
+that you're losing going to this phase 4
+cloak
+coming up next phase so yeah very very
+solid pickup from zhao oman next phase
+if you can't pick up the cloak this
+phase
+now ninja that b boots really good boots
+actually better than the boots this face
+except you gotta wait for phase four but
+they are basically free because you get
+them from 60 badge of justice
+yeah don't worry too much about the
+boots if you can't pick them up this
+phase because next phase we get a really
+really good boot option for free
+okay now you may already know this as
+i've basically explained it has gone
+along but if you want just a straight
+out list of what i would recommend as
+the top pve rogue item surprise
+by far and none
+prior stormrage cichlid ring first okay
+a stormbreaker signet ring just
+you should pry out this first it's best
+for the rest of the game it's a good
+chunky dps upgrade we're talking 10 to
+12 dps upgrade from the next best
+ring you can get this phase so very very
+uh good pickup that you're gonna use for
+the rest of the game
+now keep in mind that the rest of this
+priorities just assume
+that you don't mind waiting for your
+tear i personally don't mind waiting for
+my tear that's why i have it down here
+in this in the last slot because tier is
+usually free you wait long enough tears
+just free for everyone because of the
+double drop rate so i don't really
+recommend that if your guild does some
+sort of
+prio list system that you have to submit
+i don't recommend putting tear very high
+at all if if at all i i don't mind
+waiting personally to pick up my tear
+now second after stormray signet ring i
+would actually recommend you pick up the
+choker of endless nightmares because
+this doesn't get replaced until phase
+five uh the alternate options you can
+pick up this phase uh we are not prior
+for in that other classes
+want the choker of serrated blades or
+whatever that secondary um
+armor pen necklace is we are not proud
+for that so you really do want to choke
+off endless nightmares and it's a good
+15-ish dps upgrade from what you're
+currently using right now so highly
+recommend you put that number two now
+number three you can put insidious bands
+that's what i'm doing it's a good chunky
+15 to 20 dps upgrade if you're upgrading
+from phase 3 items straight to it
+you do have some alternative drops
+that's why it's not number two in that
+there are some alternative braces that
+do drop this coming phase three as well
+so it is still bisto so even if we
+compare those to the alternative drops
+this is still like a six to nine dps
+upgrade from them or a 15 to 20 dps
+upgrade from a phase three level uh item
+so yeah really good braces here and also
+good for pvp by the way depending on
+your comp some double dps combs for
+example might really like insidious
+bands
+now curse vision of sargeras this is a
+man it's an item everyone wants is the
+problem
+and our slayer's helm was so good like i
+said that it's really hard to justify
+giving rogues prior on this
+but it is still a solid 10 plus dps
+upgrade over
+even slayer's helm so
+while i have this rank four it's mostly
+just due to the fact that i don't think
+rogues can really get proud on this in
+most skills so it's kind of not really
+worth wasting a prior on it if your
+guild doesn't have roles
+competitive in the prior distribution
+versus the other classes but if for some
+reason if for some reason a guild has
+like opened prior on this
+okay if i don't know why but for some
+reason your guild has an open priority
+system and you can pry your curse vision
+higher i'd probably put it at maybe like
+number two if i could get it higher but
+um that's totally depending on you for
+example i proud this even more because i
+pvp and i want this for pvp but um just
+be aware super super hard to get prior
+on curse vision because rogues are
+really not the best class to pick them
+up early
+so i don't know maybe maybe your girl
+gets lucky and you get a ton of them
+fingers crossed for you now after curse
+vision is shadow moon destroys drape so
+shadow moon destroys drape it's a solid
+10 ish say dps upgrade um and it's best
+until phase five basically but again
+this isn't high up in the prior because
+we get a zhao amman cloak next phase
+that is only a little bit dps below this
+so if you miss out on this it's not the
+end of the world you can pick up the
+zelda man cloak next phase
+same with shadow masters boots this is
+low because while it's a 10 dps upgrade
+from edge walkers we get that freebie
+badge option next phase so it's like not
+super super high prior there
+and then after that is all the tier gear
+now out of the tier gear the shoulders
+are your best option to pick up but i
+wouldn't actually really highly
+prioritia gear again just because it's
+it's basically free and
+i don't believe you can really be like
+hey i'm gonna pass on all tear again
+pick up shoulders first at least that's
+not the way it works in most skills
+because the teardrops are kind of rng so
+like it might be kind of silly for you
+to pass up on all the other tier pieces
+just to get shoulders first the teardrop
+rate is high enough that i i think you
+just pick up the remaining tier pieces
+as they drop and not really worry about
+priority one over the other and for
+those asking um to swap out your
+previous tier bonuses for the incoming
+tier bonuses you won roughly two items
+if you're gonna break your
+current uh tier set bonuses you you want
+roughly about two items to compensate
+for the dps loss of breaking your
+current tier set bonus okay now let's
+talk about mother shires
+uh shadow resist gear set so
+the tricky thing about this okay and
+i've had a lot of questions people
+asking me about the shadow resist set
+it's that
+you can get a better gear than i'm
+displaying now you can get a better gear
+set that has better shadow resist and
+remaining stats
+but the reason i do the set the way i
+have it shown here is because this is
+kind of like the easiest
+set to make for a gear set that you're
+going to replace super super quickly
+because your guild is going to make
+crafted gear as you keep clearing the
+raids and then you're going to get rid
+of all your crummy shadow resist gear
+anyway so this is like a very temporary
+thing and as well as that i do think
+that rogues
+so keep in mind here rogues in
+particular
+uh we have sprint and if you wanna do
+the rocket boots as well we have sprint
+and rocket boots and potentially there's
+a jewel crafting knack that you can
+click as well to give you a little
+shield it's
+our class has so many options to get out
+of the mother shiraz mechanics that we
+might be the class that really doesn't
+need shadow resist all that much but you
+know being a good raider you should
+still put together your shareholder
+skier get it ready have that 174 shadows
+is unbuffed
+but just be aware that i'm making my
+gear set expecting to not really even
+need it that much but i'm just doing it
+just because you know i'm being a good
+raider by being prepared
+and by the way for people wondering 174
+shadow resist is the number to aim for
+because 174
+plus your um
+raid priest buffs will get you to the
+break point
+where you have a better chance to
+not take full damage from
+your shadow damage so that's why
+everyone and every guild is telling you
+to get 174 175 shadow resist okay now
+looking at the set i have here for share
+resist it's literally just i went back
+to what i had in the start of the game
+for my armor pieces
+i shove shadow resist in as many slots
+as possible so you can see here i put my
+waist walker back in i put my nether
+blade two piece back in i shove
+uh the resist gems into them the void
+spheres into them into every slot that
+isn't a meta socket so you can see just
+resist slot gems here i i use the armor
+kits on
+uh the gloves on the chest i use the
+wrap seven plus resist enchant
+and uh i use the 20 shadow resist here
+on the helmet so all of this gets me to
+actually exactly one uh 74 i believe for
+this set now the things to keep in mind
+here is with with my showers this set is
+that this abyssal shroud is a quest i
+have it linked in the guide here but
+this is just a quest item in hellfire
+peninsula hopefully you either haven't
+done that quest yet or if you did that
+quest you shaved this item but yeah if
+you didn't save this item there are
+alternates you can pick up you can
+honestly just
+get and go buy a green share resist item
+for a couple hundred gold or whatever it
+is in your server but if you haven't
+done the quest the bissell charge a
+really good pickup because then you can
+get shadow resistant item and then
+shadow resist on the enchant as well and
+just double up and have a really good
+just one shadow resist item now i'm
+using the veterans leather braces here
+just because i can
+um i i don't need them for pvp right
+away so i they're just a very good
+swimming bracer with a gem slot that i
+can sharp shadow resist in there and
+then once i don't need them anymore i'm
+gonna get rid of this and put it into my
+pvp set instead so it's like just a
+temporary usage thing here oh and you
+can see here i have fellow leather boots
+i just use these just because they have
+two slots for me to jam and shove more
+shadow resist in there so you can see
+just the theme of this is just pick up
+gear with lots
+of uh slots for me to shove shadow
+resist in is basically the key now the
+one thing i will say is the neck so this
+is the free neck you get from the quest
+but you can actually pick up a quest
+called pendant of shadows end it's a
+jewelcrafting neck and depending on
+guild you guys might be doing the strat
+where um you have everyone a guild pick
+up this mid this pendant of shadow's end
+instead of this neck and then the
+pendant of shadows n i'll show you here
+has a clicky on use 900 to 2.7 k shadow
+damage shield for you and your party
+members so this is like kind of a
+potential alternative pickup
+instead of the medallion if you your
+guild is going down this this strategy
+instead now again keep in mind final
+thing is that you don't have to copy
+this exactly again this shadow resist
+gear is only going to be used for a
+little bit until your guild gets the
+match for the crafted stuff and then you
+can replace all this so this is why i'm
+not going crazy on farmable shadow
+resist gear when you can just fill your
+old gear with shadow resist
+stuff and then um use that just for the
+initial clears and and then again like i
+said rogues may not even need uh to be
+using all that much resist when we start
+accounting for rocket boots
+and sprint if we want to use those
+all right finally murder versus improve
+of this rate so this is a question a lot
+of people are having and including
+myself i pondered over this a lot is
+that do we keep the two points in murder
+or do we move it to improve eviscerate
+and the two things to consider here is
+that there's only four bosses in black
+temple that are humanoid so we're
+talking about advantage of murder you're
+only going to take advantage of that on
+four bosses in black temple and none in
+hyjal and a lot of the trash in phase 3
+is not humanoid
+as well so
+murder is not that great but the
+alternative if we were to put the two
+points in to improve eviscerate
+the problem there is that you don't
+really eviscerate much as a rogue in tbc
+so outside of adrenaline rush type
+scenarios where you need to dump a ton
+of energy really quickly it's actually
+kind of rare to use a vis rate in for a
+lot of roads
+so there's kind of no perfect option
+here
+basically
+you either take murder which is useless
+on a lot of stuff in phase three or you
+take improve at this rate which is also
+useless a lot of time because you don't
+eviscerate that much
+now what i'm doing if you want to know
+what i'm doing is that i'm
+probably going to pick murder for the
+black temple clear days if my guild does
+black temple on one day and hydro or
+another day i will probably go murder
+there just because i just like the
+murder damage i know it's only four
+buses but i just like the murder damage
+there and i don't use eviscerate that
+much anyway
+and then for hydro days since murder is
+just completely not useful there on any
+other buses that's when i'll probably
+swap the two points to um improve evis
+rate for the hydro raid days
+but if you're rating on the same day for
+both of them then then i don't know um
+honestly i'd probably still stick with
+murder
+but i will say i will say the one thing
+that i do remember so when i used to
+raid uh in progress
+uh with some of the top rogues in the
+world what i did notice is that really
+good rogues do tend to eviscerate a
+little bit more on trash because they
+don't want to waste the combo points
+they don't want to do a slice and dice a
+lot of times and just have that slice
+and dice just be wasted when you're
+running in between stuff so a lot of
+times they actually tended to do a lot
+of eviscerates
+so if i was leaning towards just caring
+about just overall damage i don't care
+about boss damage at all
+i would be tempted to go honestly
+improve eviscerate
+just for the overall damage on trash but
+that's a very um there's a very niche
+thing so it's still up to you um i could
+see a lot of pumpers just who who want
+to see big boss damage still stick with
+murder just for black temple
+so yeah i don't think there's a wrong
+answer here it's going to be kind of up
+to you what you want to prior in your
+own damage choices
+so yeah i hope you found this guide
+helpful again thank you so much to all
+the patrons for supporting me um i got a
+lot more content coming up for you guys
+you guys will see a lot more pvp stuff
+as well
+so thanks a lot guys for the support and
+i'll catch you in the next video take
+care
+[Music]

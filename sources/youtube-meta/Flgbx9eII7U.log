@@ -1,0 +1,18 @@
+== Flgbx9eII7U ==
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+Flgbx9eII7U	Phase 3 Loot Guide - Black Temple & Mt Hyjal - Feral Druid	Griftin	https://www.youtube.com/watch?v=Flgbx9eII7U
+== captions Flgbx9eII7U ==
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Flgbx9eII7U
+[youtube] Flgbx9eII7U: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Flgbx9eII7U: Downloading android vr player API JSON
+[info] Flgbx9eII7U: Downloading subtitles: en-orig, en
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] Flgbx9eII7U: Downloading 1 format(s): 18
+[info] Writing video subtitles to: sources/youtube-transcripts/Flgbx9eII7U.en-orig.vtt
+[download] Destination: sources/youtube-transcripts/Flgbx9eII7U.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.97MiB/s (00:00:00)[download]    7.00KiB at    2.97MiB/s (00:00:00)[download]   15.00KiB at    5.35MiB/s (00:00:00)[download]   31.00KiB at    1.87MiB/s (00:00:00)[download]   63.00KiB at    2.45MiB/s (00:00:00)[download]  127.00KiB at    2.42MiB/s (00:00:00)[download]  153.58KiB at    2.79MiB/s (00:00:00)[download] 100% of  153.58KiB in 00:00:00 at 492.71KiB/s
+[info] Writing video subtitles to: sources/youtube-transcripts/Flgbx9eII7U.en.vtt
+[download] Destination: sources/youtube-transcripts/Flgbx9eII7U.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.86MiB/s (00:00:00)[download]    7.00KiB at    3.45MiB/s (00:00:00)[download]   15.00KiB at    2.83MiB/s (00:00:00)[download]   31.00KiB at    1.59MiB/s (00:00:00)[download]   63.00KiB at    2.65MiB/s (00:00:00)[download]  127.00KiB at    2.72MiB/s (00:00:00)[download]  153.58KiB at    3.21MiB/s (00:00:00)[download] 100% of  153.58KiB in 00:00:00 at 563.08KiB/s

@@ -1,0 +1,18 @@
+== hsIsJVIyOCE ==
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+hsIsJVIyOCE	Phase 3 Beast Mastery Hunter BiS and Prio Guide | TBC Classic	Veramos Gaming	https://www.youtube.com/watch?v=hsIsJVIyOCE
+== captions hsIsJVIyOCE ==
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hsIsJVIyOCE
+[youtube] hsIsJVIyOCE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] hsIsJVIyOCE: Downloading android vr player API JSON
+[info] hsIsJVIyOCE: Downloading subtitles: en-orig, en
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] hsIsJVIyOCE: Downloading 1 format(s): 18
+[info] Writing video subtitles to: sources/youtube-transcripts/hsIsJVIyOCE.en-orig.vtt
+[download] Destination: sources/youtube-transcripts/hsIsJVIyOCE.en-orig.vtt
+[download]    1.00KiB at  955.20KiB/s (00:00:00)[download]    3.00KiB at    1.21MiB/s (00:00:00)[download]    7.00KiB at    1.54MiB/s (00:00:00)[download]   15.00KiB at    1.38MiB/s (00:00:00)[download]   31.00KiB at    2.06MiB/s (00:00:00)[download]   63.00KiB at    1.83MiB/s (00:00:00)[download]  127.00KiB at    2.63MiB/s (00:00:00)[download]  146.02KiB at    2.61MiB/s (00:00:00)[download] 100% of  146.02KiB in 00:00:00 at 422.21KiB/s
+[info] Writing video subtitles to: sources/youtube-transcripts/hsIsJVIyOCE.en.vtt
+[download] Destination: sources/youtube-transcripts/hsIsJVIyOCE.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.00MiB/s (00:00:00)[download]    7.00KiB at    3.48MiB/s (00:00:00)[download]   15.00KiB at    1.90MiB/s (00:00:00)[download]   31.00KiB at    1.63MiB/s (00:00:00)[download]   63.00KiB at    2.38MiB/s (00:00:00)[download]  127.00KiB at    2.57MiB/s (00:00:00)[download]  146.02KiB at    2.84MiB/s (00:00:00)[download] 100% of  146.02KiB in 00:00:00 at 595.81KiB/s

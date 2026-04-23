@@ -1,0 +1,18 @@
+== 2d-1x_z7NdE ==
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+2d-1x_z7NdE	TBC Enhancement Shaman Tier 6 / Phase 3 BiS List! | Time to Ascend! | Best in Slot	Darkest_TV	https://www.youtube.com/watch?v=2d-1x_z7NdE
+== captions 2d-1x_z7NdE ==
+[youtube] Extracting URL: https://www.youtube.com/watch?v=2d-1x_z7NdE
+[youtube] 2d-1x_z7NdE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] 2d-1x_z7NdE: Downloading android vr player API JSON
+[info] 2d-1x_z7NdE: Downloading subtitles: en-orig, en
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] 2d-1x_z7NdE: Downloading 1 format(s): 18
+[info] Writing video subtitles to: sources/youtube-transcripts/2d-1x_z7NdE.en-orig.vtt
+[download] Destination: sources/youtube-transcripts/2d-1x_z7NdE.en-orig.vtt
+[download]    1.00KiB at  539.39KiB/s (00:00:00)[download]    3.00KiB at    1.15MiB/s (00:00:00)[download]    7.00KiB at    2.11MiB/s (00:00:00)[download]   15.00KiB at    3.81MiB/s (00:00:00)[download]   31.00KiB at    4.77MiB/s (00:00:00)[download]   63.00KiB at    2.71MiB/s (00:00:00)[download]   83.36KiB at    3.06MiB/s (00:00:00)[download] 100% of   83.36KiB in 00:00:00 at 287.76KiB/s
+[info] Writing video subtitles to: sources/youtube-transcripts/2d-1x_z7NdE.en.vtt
+[download] Destination: sources/youtube-transcripts/2d-1x_z7NdE.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.30MiB/s (00:00:00)[download]    7.00KiB at    3.94MiB/s (00:00:00)[download]   15.00KiB at    1.84MiB/s (00:00:00)[download]   31.00KiB at    1.76MiB/s (00:00:00)[download]   63.00KiB at    2.32MiB/s (00:00:00)[download]   83.36KiB at    2.40MiB/s (00:00:00)[download] 100% of   83.36KiB in 00:00:00 at 361.64KiB/s

@@ -1,0 +1,18 @@
+== hfmde-xAD4w ==
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+hfmde-xAD4w	Phase 3 + 4 TBC Loot Guide for Physical DPS - Enhancement Shaman Edition	Jambrosay	https://www.youtube.com/watch?v=hfmde-xAD4w
+== captions hfmde-xAD4w ==
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hfmde-xAD4w
+[youtube] hfmde-xAD4w: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] hfmde-xAD4w: Downloading android vr player API JSON
+[info] hfmde-xAD4w: Downloading subtitles: en-orig, en
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] hfmde-xAD4w: Downloading 1 format(s): 18
+[info] Writing video subtitles to: sources/youtube-transcripts/hfmde-xAD4w.en-orig.vtt
+[download] Destination: sources/youtube-transcripts/hfmde-xAD4w.en-orig.vtt
+[download]    1.00KiB at  242.71KiB/s (00:00:00)[download]    3.00KiB at  605.09KiB/s (00:00:00)[download]    7.00KiB at    1.28MiB/s (00:00:00)[download]   15.00KiB at    2.57MiB/s (00:00:00)[download]   31.00KiB at    1.39MiB/s (00:00:00)[download]   63.00KiB at    2.20MiB/s (00:00:00)[download]  127.00KiB at    2.87MiB/s (00:00:00)[download]  138.76KiB at    2.99MiB/s (00:00:00)[download] 100% of  138.76KiB in 00:00:00 at 489.59KiB/s
+[info] Writing video subtitles to: sources/youtube-transcripts/hfmde-xAD4w.en.vtt
+[download] Destination: sources/youtube-transcripts/hfmde-xAD4w.en.vtt
+[download]    1.00KiB at  970.01KiB/s (00:00:00)[download]    3.00KiB at    1.57MiB/s (00:00:00)[download]    7.00KiB at    1.40MiB/s (00:00:00)[download]   15.00KiB at    2.31MiB/s (00:00:00)[download]   31.00KiB at    2.34MiB/s (00:00:00)[download]   63.00KiB at    2.83MiB/s (00:00:00)[download]  127.00KiB at    3.51MiB/s (00:00:00)[download]  138.76KiB at    3.52MiB/s (00:00:00)[download] 100% of  138.76KiB in 00:00:00 at 540.17KiB/s
